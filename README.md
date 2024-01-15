@@ -1,3 +1,24 @@
+# This is my Home page. I have used the crausel for showing the offer
+
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114044.png)
+
+# This is my product page. and by scrolling the crausel user can show and buy product
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114131.png)
+
+# this is the footer page and user can communicate with the company and the customer care
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114202.png)
+
+# this is the product description page and user can show the full details of product and after requirement user can order the product
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114215.png)
+
+# after scrolling the product description page user can also see the releted product 
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114224.png)
+
+# this is cart page after clickig the cart icon user can show how much product are chhousen by user
+![MasterHead](https://github.com/jagdish97897/Customer-frontend-in-next/blob/main/Screenshot%202024-01-15%20114236.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
